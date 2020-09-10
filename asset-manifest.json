@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/yk3108/pomodoro-clock.git/static/css/main.c23b9552.chunk.css",
+    "main.js": "/yk3108/pomodoro-clock.git/static/js/main.2e07905d.chunk.js",
+    "main.js.map": "/yk3108/pomodoro-clock.git/static/js/main.2e07905d.chunk.js.map",
+    "runtime-main.js": "/yk3108/pomodoro-clock.git/static/js/runtime-main.6a1a6b57.js",
+    "runtime-main.js.map": "/yk3108/pomodoro-clock.git/static/js/runtime-main.6a1a6b57.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/yk3108/pomodoro-clock.git/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.7ea0dbcd.chunk.js": "/yk3108/pomodoro-clock.git/static/js/2.7ea0dbcd.chunk.js",
+    "static/js/2.7ea0dbcd.chunk.js.map": "/yk3108/pomodoro-clock.git/static/js/2.7ea0dbcd.chunk.js.map",
+    "index.html": "/yk3108/pomodoro-clock.git/index.html",
+    "precache-manifest.a3aeaec11f710a12804c92420b735c0d.js": "/yk3108/pomodoro-clock.git/precache-manifest.a3aeaec11f710a12804c92420b735c0d.js",
+    "service-worker.js": "/yk3108/pomodoro-clock.git/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/yk3108/pomodoro-clock.git/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.c23b9552.chunk.css.map": "/yk3108/pomodoro-clock.git/static/css/main.c23b9552.chunk.css.map",
+    "static/js/2.7ea0dbcd.chunk.js.LICENSE.txt": "/yk3108/pomodoro-clock.git/static/js/2.7ea0dbcd.chunk.js.LICENSE.txt",
+    "static/media/beep.mp3": "/yk3108/pomodoro-clock.git/static/media/beep.ca08d4b3.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a1a6b57.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.7ea0dbcd.chunk.js",
+    "static/css/main.c23b9552.chunk.css",
+    "static/js/main.2e07905d.chunk.js"
+  ]
+}
