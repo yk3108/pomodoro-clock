@@ -10,3 +10,7 @@ Used [Create React App](https://github.com/facebook/create-react-app).
 ## Author
 
 [yk3108](https://github.com/yk3108)
+
+## LICENCE
+
+[MIT](./LICENSE)
